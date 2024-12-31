@@ -1,1 +1,1 @@
-# Eco-Sphere
+# EcoSphere
